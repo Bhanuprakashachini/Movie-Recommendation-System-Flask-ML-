@@ -208,12 +208,3 @@ Include this README.md — it makes your project look professional.
 
 ---
 
-If you want, I can also generate:
-
-📌 **SETUP.md**
-📌 **CONTRIBUTING.md**
-📌 **LICENSE**
-📌 **GitHub repo description**
-📌 **Screenshots mockup**
-
-Just tell me!
